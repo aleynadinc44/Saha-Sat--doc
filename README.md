@@ -34,6 +34,7 @@ Uygulamanın derlenmiş sürümünü cihazınızda test etmek için aşağıdaki
 
 <img width="372" height="768" alt="Ekran görüntüsü 2026-08-20 152331" src="https://github.com/user-attachments/assets/0a86e86c-af04-461c-ab8f-7d30423d4550" />
 <img width="368" height="559" alt="Ekran görüntüsü 2026-08-20 151804" src="https://github.com/user-attachments/assets/046d8d47-c04e-406c-a26f-8f73d9e49ff7" />
+<img width="522" height="779" alt="Ekran görüntüsü 2026-08-20 110930" src="https://github.com/user-attachments/assets/39fbdee0-1135-4b78-9d39-f361695e09da" />
 <img width="366" height="421" alt="Ekran görüntüsü 2026-08-20 152057" src="https://github.com/user-attachments/assets/ce34add2-04f7-4a74-a672-ea44cbd9700a" />
 
 
